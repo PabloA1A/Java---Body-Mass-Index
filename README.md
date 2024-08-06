@@ -10,6 +10,3 @@ Then, from the BMI obtained it is possible to calculate whether a person is norm
 
 - It is not necessary to generate an output per terminal.
 - It is mandatory to perform the unit tests.
-
-### Image:
-https://i.postimg.cc/Yq0mDYHB/temp-Image5d9m-Y3.avif
